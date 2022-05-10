@@ -1,4 +1,4 @@
-# BI-Proyecto 2
+# BI-Proyecto 1 - Entrega 2
  
 - David Santiago Suarez
 - Javier Peniche
